@@ -20,9 +20,9 @@ public class UserDAO {
             jdbcUsername = envUser;
             jdbcPassword = envPass;
         } else {
-            jdbcURL = "jdbc:mysql://localhost:3306/petshop";
+            jdbcURL = "jdbc:mysql://switchback.proxy.rlwy.net:49496/railway";
             jdbcUsername = "root";
-            jdbcPassword = "admin";
+            jdbcPassword = "CaxLOWsGEHcaUIMpeUqtCmLucuHVTNGS";
         }
     }
 
